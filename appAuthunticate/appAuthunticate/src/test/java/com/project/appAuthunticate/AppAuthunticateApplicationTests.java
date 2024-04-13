@@ -1,4 +1,4 @@
-package com.project.security.appAuthunticate;
+package com.project.appAuthunticate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
